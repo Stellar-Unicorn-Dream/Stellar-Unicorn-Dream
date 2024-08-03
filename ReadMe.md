@@ -15,6 +15,7 @@ Always eager to take on new challenges and push the boundaries of digital design
   - Video Production & Editing
   - 3D Modeling & Printing
   - Content Strategy & Management
+
 🛠️ Tools: 
   - Adobe Creative Suite (Illustrator, Photoshop, Premiere Pro, After Effects)
   - DaVinci Resolve
